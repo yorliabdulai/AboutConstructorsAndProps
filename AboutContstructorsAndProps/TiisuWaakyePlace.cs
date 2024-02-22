@@ -13,7 +13,7 @@ namespace AboutContstructorsAndProps
         //Explicit Constructor vs Implict Constructor
         public string TiisuWaakyeLocation { get; set; } = "Campus Corner";
         //public DateTime DateEstablished { get; set; } = DateTime.Parse("12/201999)");
-        public TiisuWaakyePlace(in) //parameterless
+        public TiisuWaakyePlace() //parameterless
         {
             DateTime currentTime = DateTime.Now; //storing currentTime for later use.
             DateTime TiisuStartTime =
