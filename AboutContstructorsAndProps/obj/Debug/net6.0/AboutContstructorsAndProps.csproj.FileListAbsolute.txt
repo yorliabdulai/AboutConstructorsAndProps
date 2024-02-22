@@ -1,0 +1,14 @@
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.AssemblyInfoInputs.cache
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.AssemblyInfo.cs
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.csproj.CoreCompileInputs.cache
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\bin\Debug\net6.0\AboutContstructorsAndProps.exe
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\bin\Debug\net6.0\AboutContstructorsAndProps.deps.json
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\bin\Debug\net6.0\AboutContstructorsAndProps.runtimeconfig.json
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\bin\Debug\net6.0\AboutContstructorsAndProps.dll
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\bin\Debug\net6.0\AboutContstructorsAndProps.pdb
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.dll
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\refint\AboutContstructorsAndProps.dll
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.pdb
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\AboutContstructorsAndProps.genruntimeconfig.cache
+C:\Users\Yoga 260\source\repos\AboutContstructorsAndProps\AboutContstructorsAndProps\obj\Debug\net6.0\ref\AboutContstructorsAndProps.dll
