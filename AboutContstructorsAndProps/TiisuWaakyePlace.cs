@@ -15,7 +15,7 @@ namespace AboutConstructorsAndProps
         public TiisuWaakyePlace()
         {
             DateTime currentTime = DateTime.Now;
-            DateTime TiisuStartTime = new DateTime(currentTime.Year, currentTime.Month, currentTime.Day, 20, 55, 0);
+            DateTime TiisuStartTime = new DateTime(currentTime.Year, currentTime.Month, currentTime.Day, 19, 55, 0);
 
             if (currentTime < TiisuStartTime)
             {
